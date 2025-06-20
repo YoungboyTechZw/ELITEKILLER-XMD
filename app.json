@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put your ELITEKILLER-XMD session-id here.",
       "required": true,
-      "value": ""
+      "value": "malvin~9ndxyYBD#auFqFo58W138Rbzh4MPYX_Ovr2u0itY_AOck41AM0tk"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
